@@ -1,4 +1,3 @@
-```
 # cofounder
 Empowering entrepreneurs with open-source knowledge to build successful SAAS startups. 🛠️💡🌱
 
@@ -79,5 +78,3 @@ Here's what we're cooking up next:
 
 ## Stay Connected: Follow Us on YouTube 📹
 For more interactive and engaging updates, follow our journey on YouTube at [Jake Haugen's Channel](https://www.youtube.com/@JakeHaugen). Dive into detailed discussions, tutorials, and insights that bring the cofounder experience to life!
-
-```
