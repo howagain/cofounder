@@ -1,5 +1,14 @@
 # How to Get and Evaluate Startup Ideas | Startup School
 
+## Evaluate your startup idea now
+<a href="https://chat.openai.com/g/g-LDlFj5Sm2-evaluate-your-startup-idea">
+    <img src="./yc-logo.png" alt="Custom GPT for evaluating your startup idea" width="100" height="100">
+</a> <-- click on the image to go to a startup evaluator GPT
+
+
+## Video
+
+
 [![Alt text](https://img.youtube.com/vi/Th8JoIan4dg/maxresdefault.jpg)](https://www.youtube.com/watch?v=Th8JoIan4dg)
 
 
@@ -12,9 +21,6 @@
 4. **Waiting for the Perfect Idea:** Act on good ideas instead of waiting for the perfect one, as no startup idea is flawless from the start.
 
 ### Evaluating Your Startup Idea
-<a href="https://chat.openai.com/g/g-LDlFj5Sm2-evaluate-your-startup-idea">
-    <img src="./yc-logo.png" alt="Custom GPT for evaluating your startup idea" width="100" height="100">
-</a>
 
 1. **Founder-Market Fit:** Ensure your team is suitable for the idea.
 2. **Market Size:** Target a large or rapidly growing market.
