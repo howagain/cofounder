@@ -26,3 +26,31 @@ Our goal is to understand the following questions.
 3. I have a tool to help me apply that advice to my future startup ideas
 4. I have a video report of the startup idea
 
+# Summary
+## What questions should I ask?
+1. Mindset
+2. Questions
+3. Follow up
+
+## Finding people and staying consistent
+1. Finding people
+2. (IDEA) A custom GPT that can customize a form to send to people
+3. A way for them to schedule with you
+   1. Calendly
+5. Building out reach into your product
+   1. Make contacting you directly very obvious and easy
+      1. Email on the front page
+      2. A personal note on the about us section
+      3. Clear contact us
+
+## Getting useful insights out of this
+1. What data should I collect?
+
+
+## Handling Tough Situations
+1. What if they ignore me?
+2. What if they question me?
+3. What if they get mad?
+4. What if they don't like my idea?
+5. What if someone steals my idea?
+6. What if they cancel/flake?
