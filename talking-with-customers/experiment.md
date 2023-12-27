@@ -54,3 +54,11 @@ Our goal is to understand the following questions.
 4. What if they don't like my idea?
 5. What if someone steals my idea?
 6. What if they cancel/flake?
+
+## Resources
+
+
+1. [The Mom Test](https://www.goodreads.com/book/show/52283963-the-mom-test)
+2. [How to Know A Person](https://www.goodreads.com/book/show/112974860-how-to-know-a-person)
+3. [Eric Migicovsky - How to Talk to Users](https://www.youtube.com/watch?v=MT4Ig2uqjTc)
+4. [How to Get and Evaluate Startup Ideas | Startup School](https://www.youtube.com/watch?v=Th8JoIan4dg)
